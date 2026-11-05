@@ -463,9 +463,6 @@ I treat these as values from the current dashboard views rather than permanent c
 
 **Vishesh Sanat**  
 B.Tech — Artificial Intelligence & Machine Learning (AIML)  
-AIML C-3  
-PRN: `24070126205`
+
 
 ---
-
-*Built as a Data Visualization Lab project using Power BI, DAX, and R.*
